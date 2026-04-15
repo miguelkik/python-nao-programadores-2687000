@@ -8,7 +8,10 @@ print(type(altura))
 soma = data_nascimento * 3
 print (soma)
 print(f"Hoje paloma estudou {3 + 1} horas em casa.")
-
+num1 = 1.1
+num2 = 1 
+soma2 =  (num1+num2)
+print(f"resultado da soma: {soma2}")
 # Descubra o tipo de dado de cada variável acima
 
 
